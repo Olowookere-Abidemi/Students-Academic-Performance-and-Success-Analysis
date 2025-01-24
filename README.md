@@ -1,6 +1,8 @@
 # Students-Academic-Performance-and-Success-Analysis
 The goal of this project was to analyze and visualize the factors influencing students' academic performance and success. The dataset provided insights into various aspects, such as financial status, accommodation type, study hours, and more.  
 
+![](https://github.com/Olowookere-Abidemi/Students-Academic-Performance-and-Success-Analysis/blob/main/PERFORMANCE%20DASHBOARD.png)
+
 ## Data Oveerview: 
 
 - The analysis used a dataset sourced from Kaggle.
